@@ -1,0 +1,8 @@
+tensorflow
+Flask
+flask-cors
+python-box==6.0.2
+PyYAML
+Pillow
+scipy
+tensorboard
